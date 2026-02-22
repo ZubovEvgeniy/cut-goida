@@ -33,6 +33,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add configs/*.txt
+          git add -A
           git commit -m "Автообновление конфигов VLESS/Reality" || echo "Нет новых конфигов для сохранения"
           git push

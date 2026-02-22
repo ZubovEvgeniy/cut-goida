@@ -101,9 +101,22 @@ def get_session():
 
     return session
 
+def generate_readme(stats):
+    stats.sort(key=lambda x: x["num"])
+    md_lines = []
+    for item in stats:
+        md_lines.append(f"### 📂 Список №{item['num']} ({item['count']} серверов)")
+        md_lines.append(f"```url\n{item['link']}\n```")
+        md_lines.append("")
+
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write("\n".join(md_lines))
+    print("-> Файл README.md успешно обновлен!")
+
 def fetch_and_filter_configs():
     os.makedirs("configs", exist_ok=True)
     session = get_session()
+    stats = []
     for url, output_filename in SOURCES.items():
         # создаем пустое множество для каждой новой ссылки, чтобы они не смешивались
         filtered_configs = set()
@@ -147,8 +160,21 @@ def fetch_and_filter_configs():
 
             print(f"-> Успешно! Сохранено {len(filtered_configs)} конфигов в файл {output_filename}\n")
 
+            filename = os.path.basename(output_filename)
+            file_num = int(filename.split('_')[-1].split('.')[0])
+            raw_link = f"https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/{filename}"
+
+            stats.append({
+                "num": file_num,
+                "link": raw_link,
+                "count": len(filtered_configs)
+            })
+
         except Exception as e:
             print(f"Ошибка при загрузке {url}: {e}")
+
+    if stats:
+        generate_readme(stats)
 
 
 if __name__ == "__main__":
