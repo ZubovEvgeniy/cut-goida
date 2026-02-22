@@ -9,6 +9,9 @@ jobs:
   update-configs:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Скачивание репозитория
         uses: actions/checkout@v4
