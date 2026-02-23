@@ -1,2 +1,1 @@
 vless://2bd80876-fc38-445a-9a32-3c7233e1bfb7@45.146.90.3:443?type=tcp&security=reality&sni=srv124.towersflowerss.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0#NL   VLESS-TCP-RLT - LeaseWeb Netherlands B.V.  45.146.90.3
-vless://4bc83a84-d4d2-43f8-8ee4-45b08a190162@mtn-sm1.ip-venzo.com:6871?type=tcp&security=reality&sni=ip-venzo.com&fp=firefox&pbk=sGkQutu-jNzzINkigXEr4zm6us4c5KvT6FRSOKEliyY&sid=a3ec090d35b64be8#US   VLESS-TCP-RLT - LEASEWEB-USA-SFO  23.106.45.2
