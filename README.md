@@ -1,4 +1,4 @@
-### 📂 Список №1 (378 серверов)
+### 📂 Список №1 (379 серверов)
 ```url
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_1.txt
 ```
