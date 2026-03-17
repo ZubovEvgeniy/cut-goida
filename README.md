@@ -1,4 +1,4 @@
-### 📂 Список №1 (467 серверов)
+### 📂 Список №1 (466 серверов)
 ```url
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_1.txt
 ```
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_5.txt
 ```
 
-### 📂 Список №6 (25 серверов)
+### 📂 Список №6 (27 серверов)
 ```url
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_6.txt
 ```
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_8.txt
 ```
 
-### 📂 Список №9 (21 серверов)
+### 📂 Список №9 (23 серверов)
 ```url
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_9.txt
 ```
@@ -93,12 +93,12 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_21.txt
 ```
 
-### 📂 Список №22 (73 серверов)
+### 📂 Список №22 (75 серверов)
 ```url
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_22.txt
 ```
 
-### 📂 Список №23 (37 серверов)
+### 📂 Список №23 (13 серверов)
 ```url
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_23.txt
 ```
@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_24.txt
 ```
 
-### 📂 Список №25 (39 серверов)
+### 📂 Список №25 (5 серверов)
 ```url
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/my_configs_25.txt
 ```
