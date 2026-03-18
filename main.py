@@ -6,31 +6,30 @@ import urllib.parse
 from requests.adapters import HTTPAdapter
 from urllib3 import Retry
 
-SOURCES = {
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/1.txt": "configs/my_configs_1.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/2.txt": "configs/my_configs_2.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/3.txt": "configs/my_configs_3.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/4.txt": "configs/my_configs_4.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/5.txt": "configs/my_configs_5.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/6.txt": "configs/my_configs_6.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/7.txt": "configs/my_configs_7.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/8.txt": "configs/my_configs_8.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/9.txt": "configs/my_configs_9.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/11.txt": "configs/my_configs_11.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/12.txt": "configs/my_configs_12.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/13.txt": "configs/my_configs_13.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/14.txt": "configs/my_configs_14.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/15.txt": "configs/my_configs_15.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/16.txt": "configs/my_configs_16.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/17.txt": "configs/my_configs_17.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/19.txt": "configs/my_configs_19.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/20.txt": "configs/my_configs_20.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/21.txt": "configs/my_configs_21.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/22.txt": "configs/my_configs_22.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/23.txt": "configs/my_configs_23.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/24.txt": "configs/my_configs_24.txt",
-    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/25.txt": "configs/my_configs_25.txt",
-}
+SOURCES = [
+    # --- Добавляй новые источники сюда ---
+
+    # Вариант 1: репозиторий с пронумерованными файлами
+    # {
+    #     "pattern": "https://example.com/configs/{i}.txt",
+    #     "count": 50,              # файлы от 1 до 50
+    #     # "indices": [1, 3, 7],  # или вручную, если нумерация с пропусками
+    # },
+
+    # Вариант 2: одиночный файл
+    # {
+    #     "url": "https://example.com/all-configs.txt",
+    # },
+
+    {
+        "pattern": "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/{i}.txt",
+        "count": 25,
+    },
+    {
+        "pattern": "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-{i}.txt",
+        "count": 36,
+    },
+]
 
 OUTPUT_FILE = "my_vless_reality.txt"
 
@@ -83,6 +82,33 @@ STOP_WORDS = [
 ]
 
 
+def extract_github_username(url):
+    """Извлекает имя пользователя GitHub из URL вида github.com/USER/... или raw.githubusercontent.com/USER/..."""
+    parsed = urllib.parse.urlparse(url)
+    parts = parsed.path.strip("/").split("/")
+    if parts and parts[0]:
+        return parts[0].lower()
+    return "unknown"
+
+
+def expand_sources(sources):
+    """Разворачивает описания источников в список кортежей (url, output_filename, author)."""
+    result = []
+    for source in sources:
+        if "url" in source:
+            url = source["url"]
+            author = extract_github_username(url)
+            result.append((url, f"configs/{author}_1.txt", author))
+        elif "pattern" in source:
+            base_url = source["pattern"].replace("{i}", "0")
+            author = extract_github_username(base_url)
+            indices = source.get("indices") or range(1, source["count"] + 1)
+            for idx, i in enumerate(indices, start=1):
+                url = source["pattern"].format(i=i)
+                result.append((url, f"configs/{author}_{idx}.txt", author))
+    return result
+
+
 def get_session():
     session = requests.Session()
 
@@ -104,12 +130,21 @@ def get_session():
     return session
 
 def generate_readme(stats):
-    stats.sort(key=lambda x: x["num"])
-    md_lines = []
+    # Группируем по автору, сохраняя порядок появления
+    groups = {}
     for item in stats:
-        md_lines.append(f"### 📂 Список №{item['num']} ({item['count']} серверов)")
-        md_lines.append(f"```url\n{item['link']}\n```")
+        groups.setdefault(item["author"], []).append(item)
+
+    md_lines = []
+    for author, items in groups.items():
+        total_servers = sum(i["count"] for i in items)
+        md_lines.append(f"## {author} — {len(items)} файлов, {total_servers} серверов")
         md_lines.append("")
+        for item in items:
+            filename = item["link"].split("/")[-1]
+            md_lines.append(f"**{filename}** ({item['count']} серверов)")
+            md_lines.append(f"```\n{item['link']}\n```")
+            md_lines.append("")
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("\n".join(md_lines))
@@ -119,7 +154,7 @@ def fetch_and_filter_configs():
     os.makedirs("configs", exist_ok=True)
     session = get_session()
     stats = []
-    for url, output_filename in SOURCES.items():
+    for i, (url, output_filename, author) in enumerate(expand_sources(SOURCES), start=1):
         # создаем пустое множество для каждой новой ссылки, чтобы они не смешивались
         filtered_configs = set()
 
@@ -163,11 +198,11 @@ def fetch_and_filter_configs():
             print(f"-> Успешно! Сохранено {len(filtered_configs)} конфигов в файл {output_filename}\n")
 
             filename = os.path.basename(output_filename)
-            file_num = int(filename.split('_')[-1].split('.')[0])
             raw_link = f"https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/{filename}"
 
             stats.append({
-                "num": file_num,
+                "num": i,
+                "author": author,
                 "link": raw_link,
                 "count": len(filtered_configs)
             })
