@@ -138,13 +138,18 @@ def generate_readme(stats):
     md_lines = []
     for author, items in groups.items():
         total_servers = sum(i["count"] for i in items)
-        md_lines.append(f"## {author} — {len(items)} файлов, {total_servers} серверов")
+        md_lines.append(f"<details>")
+        md_lines.append(f"<summary><b>{author}</b> — {len(items)} файлов, {total_servers} серверов</summary>")
         md_lines.append("")
         for item in items:
             filename = item["link"].split("/")[-1]
             md_lines.append(f"**{filename}** ({item['count']} серверов)")
-            md_lines.append(f"```\n{item['link']}\n```")
+            md_lines.append(f"```")
+            md_lines.append(item["link"])
+            md_lines.append(f"```")
             md_lines.append("")
+        md_lines.append("</details>")
+        md_lines.append("")
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("\n".join(md_lines))
