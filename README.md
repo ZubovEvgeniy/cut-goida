@@ -312,3 +312,13 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_3
 ```
 
 </details>
+
+<details>
+<summary><b>igareck</b> — 1 файлов, 0 серверов</summary>
+
+**igareck_1.txt** (0 серверов)
+```
+https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/igareck_1.txt
+```
+
+</details>
