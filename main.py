@@ -29,6 +29,9 @@ SOURCES = [
         "pattern": "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-{i}.txt",
         "count": 36,
     },
+    {
+        "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt",
+    },
 ]
 
 OUTPUT_FILE = "my_vless_reality.txt"
