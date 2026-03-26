@@ -1,1 +1,1 @@
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#/North Bergen/United States/North Bergen/freeinternet
+vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#/Chicago/United States/Chicago/freeinternet
