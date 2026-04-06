@@ -1,1 +1,2 @@
 vless://d9e24a73-f04d-4439-a564-487ccd3cd097@usa.talon.su:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=usa.talon.su&fp=chrome&pbk=OcVe6UD5UfGlbNjQ-c_-TGE1YItXjK3_zEi54oBdADs&sid=3a79810bba9c12dc# UN | usa.talon.su
+vless://197a0c0a-574d-497a-9e44-7bec185f8662@uk3.magnetgateway.onnstreaming.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fRAFdTeG4k77FPctArX1_6Af-HKEC1Spf62ghQdaNVc&security=reality&sid=b5dea479d01202bc&sni=uk3.magnetgateway.onnstreaming.ru&type=tcp# UN | uk3.magnetgateway.onnstreaming.ru
