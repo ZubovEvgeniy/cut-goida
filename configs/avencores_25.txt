@@ -1,0 +1,1 @@
+vless://43488128-319e-f480-64ea-0acdc712e2a8@165.232.86.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K1p8iHF_pzt-Y07A-xqyEMvgFPdhWgJ0k6mLmRv42yg&security=reality&sid=9876543210abcdef&sni=www.aliexpress.com&type=tcp#🇳🇱
