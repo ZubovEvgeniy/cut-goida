@@ -1,5 +1,5 @@
 vless://3fa43a99-b7c8-4d73-889e-63d186f41d5b@91.197.1.218:15655?encryption=none&fp=chrome&pbk=bSpAbv0pfxf2D8OySqg2HiPTQN90wPv7hKD2e47ZtB4&security=reality&sid=3879&sni=google.com&type=tcp#🇱🇻
-vless://9ecb5d1d-5316-4a3a-8e2a-6badf29cc5e6@31.57.158.132:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x9a2VaiE6e4ZGggUikPyuTEaJ2476LzoIPUDSQkPjQU&security=reality&sid=29560f3469&sni=akashi.vk-portal.net&type=tcp#🇱🇻
-vless://0388ef39-0883-4fb0-a93c-429da8cb45ab@82.165.179.153:443?encryption=none&fp=chrome&pbk=hF-EJNBXVYkS6mPSRRhLfgkuKxdciknzzx6q9smc0lg&security=reality&sid=ab&sni=www.google.com&type=tcp#🇩🇪
 vless://610b4374-6c1b-43e6-ba7f-a89aba596db6@2.27.20.17:443?encryption=none&fp=chrome&pbk=N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY&security=reality&sid=131df166be01a436&sni=vpn.xorealis.com&type=grpc#🇩🇪
+vless://0388ef39-0883-4fb0-a93c-429da8cb45ab@82.165.179.153:443?encryption=none&fp=chrome&pbk=hF-EJNBXVYkS6mPSRRhLfgkuKxdciknzzx6q9smc0lg&security=reality&sid=ab&sni=www.google.com&type=tcp#🇩🇪
+vless://9ecb5d1d-5316-4a3a-8e2a-6badf29cc5e6@31.57.158.132:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x9a2VaiE6e4ZGggUikPyuTEaJ2476LzoIPUDSQkPjQU&security=reality&sid=29560f3469&sni=akashi.vk-portal.net&type=tcp#🇱🇻
 vless://337582a5-3705-11f1-953f-dc08fb041e0d@de2.gosocial.today:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A7rUZxACVEZDLxE5yl0bwplc6HMl2XBDasR9X8hy-CA&security=reality&sid=c8855701&sni=de2.gosocial.today&type=tcp#🇩🇪
