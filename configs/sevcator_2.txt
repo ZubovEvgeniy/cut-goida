@@ -1,1 +1,0 @@
-vless://f6808c62-cfe0-438c-aae6-44fe6ef51e47@5.199.133.35:8082?allowInsecure=0&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_2%7C1.5MB/s
