@@ -1,3 +1,3 @@
+vless://faed8940-ce1a-4613-a05b-65d833e3346b@148.253.208.98:20222?fp=chrome&pbk=USzu7jEsyeyLjhJ_w8Wm76bd6bSXy8TciAojicQKAHk&security=reality&sid=48e9a51281c1&sni=stats.vk-portal.net#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20110
 vless://4649d681-7f26-4959-a3f2-02eb8866230f@144.31.5.23:9443?flow=xtls-rprx-vision&fp=chrome&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&security=reality&sid=2344766a270a6298&sni=yahoo.com#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20109
 vless://ec9e7b71-72b6-0021-8549-2efb1b21a502@us.musicperec.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=6e3f0a5b&sni=ads.x5.ru#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20111
-vless://faed8940-ce1a-4613-a05b-65d833e3346b@148.253.208.98:20222?fp=chrome&pbk=USzu7jEsyeyLjhJ_w8Wm76bd6bSXy8TciAojicQKAHk&security=reality&sid=48e9a51281c1&sni=stats.vk-portal.net#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20110
