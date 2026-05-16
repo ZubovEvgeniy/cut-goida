@@ -1,5 +1,5 @@
 <details>
-<summary><b>avencores</b> — 25 файлов, 534 серверов</summary>
+<summary><b>avencores</b> — 25 файлов, 523 серверов</summary>
 
 **avencores_1.txt** (217 серверов)
 ```
@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_19.txt
 ```
 
-**avencores_20.txt** (18 серверов)
+**avencores_20.txt** (7 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_20.txt
 ```
