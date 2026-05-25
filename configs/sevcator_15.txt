@@ -1,2 +1,2 @@
-vless://1e4cbe3e-f5b2-4629-9f41-d6f82ad2fabd@185.70.186.72:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HCAPfG0TaMTlGVAWQH1uUBeGnZQROm-5Tq2uCFU07xk&security=reality&sid=28569c51ba75eb&sni=www.amd.com&type=tcp#//Netherlands/Amsterdam
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#//Netherlands/Haarlem
+vless://1e4cbe3e-f5b2-4629-9f41-d6f82ad2fabd@185.70.186.72:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HCAPfG0TaMTlGVAWQH1uUBeGnZQROm-5Tq2uCFU07xk&security=reality&sid=28569c51ba75eb&sni=www.amd.com&type=tcp#//Netherlands/Amsterdam
