@@ -1,1 +1,0 @@
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g9.steptofsvo.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g9.steptofsvo.com&type=tcp#@Network_442_%20%F0%9F%87%AC%F0%9F%87%A7%20double%20%E2%8F%A9
