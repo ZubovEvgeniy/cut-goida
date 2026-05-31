@@ -1,6 +1,6 @@
-vless://rootface@216.234.141.24:443?security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2025
-vless://rootface@216.234.141.24:443?security=reality&encryption=none&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2026
+vless://rootface@216.234.141.24:443?security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2021
 vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?security=reality&type=grpc&sni=ea.com&fp=chrome&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&sid=b1b454f6&encryption=none&headerType=none#%F0%9F%87%AB%F0%9F%87%B7_23
 vless://rootface@216.234.141.24:443?security=reality&encryption=none&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&headerType=none&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2022
 vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@116.202.103.212:443?security=reality&type=grpc&sni=www.danishshakeel.me&fp=firefox&pbk=dt-8AYayJYIhVUKUcfNwD7t67i199CiGWqGfcsYj2Wo&sid=0cb80458&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_22
-vless://rootface@216.234.141.24:443?security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2021
+vless://rootface@216.234.141.24:443?security=reality&encryption=none&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2026
+vless://rootface@216.234.141.24:443?security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2025
