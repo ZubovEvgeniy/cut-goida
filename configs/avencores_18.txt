@@ -1,2 +1,2 @@
-vless://c1dca28f-48a9-45b9-9c1b-e0b78707a26a@hk01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=175d&sni=hls-svod.itunes.apple.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD
 vless://568bcfb3-965b-4d97-af29-155b7b9d89c4@212.74.39.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=QsjSJxjG0T6XmoBhjXUohrMNGDQ97J14LVGnJRgUqVk&security=reality&sid=d3&sni=icloud.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%2003
+vless://c1dca28f-48a9-45b9-9c1b-e0b78707a26a@hk01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=175d&sni=hls-svod.itunes.apple.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD
