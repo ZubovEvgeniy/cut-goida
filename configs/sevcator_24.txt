@@ -1,2 +1,0 @@
-vless://3dc68a32-43aa-4b5e-a60f-e11b27d03edc@94.156.117.79:8443?security=reality&encryption=none&pbk=XEOvGJLIn0iPDT1R71F8FCKet0XHg-NTn0sSxurlvV8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=ce#/The Netherlands
-vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?security=reality&encryption=none&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c9eb0359fac0c345#//France/Paris

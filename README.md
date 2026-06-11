@@ -1,12 +1,12 @@
 <details>
-<summary><b>avencores</b> — 25 файлов, 880 серверов</summary>
+<summary><b>avencores</b> — 25 файлов, 914 серверов</summary>
 
 **avencores_1.txt** (463 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_1.txt
 ```
 
-**avencores_2.txt** (83 серверов)
+**avencores_2.txt** (82 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_2.txt
 ```
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_5.txt
 ```
 
-**avencores_6.txt** (9 серверов)
+**avencores_6.txt** (11 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_6.txt
 ```
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_18.txt
 ```
 
-**avencores_19.txt** (6 серверов)
+**avencores_19.txt** (5 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_19.txt
 ```
@@ -106,12 +106,12 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_21.txt
 ```
 
-**avencores_22.txt** (85 серверов)
+**avencores_22.txt** (89 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_22.txt
 ```
 
-**avencores_23.txt** (62 серверов)
+**avencores_23.txt** (89 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_23.txt
 ```
@@ -121,7 +121,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_24.txt
 ```
 
-**avencores_25.txt** (13 серверов)
+**avencores_25.txt** (16 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_25.txt
 ```
@@ -129,19 +129,19 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 </details>
 
 <details>
-<summary><b>sevcator</b> — 36 файлов, 83 серверов</summary>
+<summary><b>sevcator</b> — 36 файлов, 82 серверов</summary>
 
 **sevcator_1.txt** (11 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_1.txt
 ```
 
-**sevcator_2.txt** (18 серверов)
+**sevcator_2.txt** (16 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_2.txt
 ```
 
-**sevcator_3.txt** (1 серверов)
+**sevcator_3.txt** (3 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_3.txt
 ```
@@ -246,12 +246,12 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_2
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_23.txt
 ```
 
-**sevcator_24.txt** (2 серверов)
+**sevcator_24.txt** (0 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_24.txt
 ```
 
-**sevcator_25.txt** (3 серверов)
+**sevcator_25.txt** (5 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_25.txt
 ```
@@ -296,7 +296,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_3
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_33.txt
 ```
 
-**sevcator_34.txt** (36 серверов)
+**sevcator_34.txt** (35 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_34.txt
 ```
