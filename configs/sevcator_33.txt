@@ -1,2 +1,2 @@
-vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#//Latvia/Riga
 vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.22.50.157:443?security=reality&encryption=none&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cd8971da5a669139#//France/Paris
+vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?security=reality&encryption=none&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&headerType=none&type=tcp&sni=yahoo.com&sid=61#//Latvia/Riga
