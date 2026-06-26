@@ -1,1 +1,1 @@
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@78.40.193.172:443?security=reality&type=tcp&sni=rezerv3.yunus.guru&fp=firefox&flow=xtls-rprx-vision&sid=b28896ec1669a951&pbk=Aiyev_-czR8WG7l15BQDsHL7VwJVQe3W7SEfxbRk0W4&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20405515
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@78.40.193.172:443?security=reality&type=tcp&sni=rezerv3.yunus.guru&fp=firefox&flow=xtls-rprx-vision&sid=b28896ec1669a951&pbk=Aiyev_-czR8WG7l15BQDsHL7VwJVQe3W7SEfxbRk0W4&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20557640
