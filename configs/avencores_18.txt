@@ -1,3 +1,3 @@
-vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&security=reality&sid=e1bdc95c1554c8eb&sni=www.samsung.com#%F0%9F%87%B7%F0%9F%87%B4_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_10
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?fp=firefox&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&security=reality&sid=e1bdc95c1554c8eb&sni=www.samsung.com#%F0%9F%87%B7%F0%9F%87%B4_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_15
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?fp=firefox&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&security=reality&sid=e1bdc95c1554c8eb&sni=www.samsung.com#%F0%9F%87%B7%F0%9F%87%B4_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_8
+vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&security=reality&sid=e1bdc95c1554c8eb&sni=www.samsung.com#%F0%9F%87%B7%F0%9F%87%B4_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_10
