@@ -1,2 +1,2 @@
-vless://ebf2b955-ebff-4913-9cc0-d9c56870cfbe@nid.hatvpn.org:443?flow=xtls-rprx-vision&fp=chrome&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&security=reality&sid=054602d818379876&sni=nid.hatvpn.org#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0_7
 vless://7d5fc75d-5353-49e8-ac3a-ccbada84840c@45.139.76.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=V1vIrExX3-oHy5vJNlsazYhVdkKyt9rtt4CDADBeFFo&security=reality&sid=0bbd0f101ee82d47&sni=www.amd.com#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0_8
+vless://ebf2b955-ebff-4913-9cc0-d9c56870cfbe@nid.hatvpn.org:443?flow=xtls-rprx-vision&fp=chrome&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&security=reality&sid=054602d818379876&sni=nid.hatvpn.org#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0_7
