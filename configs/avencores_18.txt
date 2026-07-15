@@ -1,2 +1,0 @@
-vless://4e37ec19-064c-41fe-a218-42b093d2ca5f@31.76.10.180:2087?fp=chrome&host=vip-de2-unlimited.relqino.ir&path=%2F&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&security=reality&sid=e898156ae00ddeb8&sni=yahoo.com&type=http#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_103
-vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?flow=xtls-rprx-vision&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&security=reality&sid=808a7e8a2e32c697&sni=site.rumedia-cdn.com#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0_11
