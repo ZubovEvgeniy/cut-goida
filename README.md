@@ -1,7 +1,7 @@
 <details>
-<summary><b>avencores</b> — 25 файлов, 1568 серверов</summary>
+<summary><b>avencores</b> — 25 файлов, 1580 серверов</summary>
 
-**avencores_1.txt** (882 серверов)
+**avencores_1.txt** (892 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_1.txt
 ```
@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_2.txt
 ```
 
-**avencores_3.txt** (212 серверов)
+**avencores_3.txt** (215 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_3.txt
 ```
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_8.txt
 ```
 
-**avencores_9.txt** (37 серверов)
+**avencores_9.txt** (35 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_9.txt
 ```
@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_19.txt
 ```
 
-**avencores_20.txt** (1 серверов)
+**avencores_20.txt** (2 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_20.txt
 ```
@@ -129,7 +129,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/avencores_
 </details>
 
 <details>
-<summary><b>sevcator</b> — 36 файлов, 86 серверов</summary>
+<summary><b>sevcator</b> — 36 файлов, 114 серверов</summary>
 
 **sevcator_1.txt** (12 серверов)
 ```
@@ -171,7 +171,7 @@ https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_7
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_8.txt
 ```
 
-**sevcator_9.txt** (34 серверов)
+**sevcator_9.txt** (62 серверов)
 ```
 https://raw.githubusercontent.com/ZubovEvgeniy/cut-goida/main/configs/sevcator_9.txt
 ```
