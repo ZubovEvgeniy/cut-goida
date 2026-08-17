@@ -1,1 +1,5 @@
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@185.227.70.42:8082?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_5%7C2.4MB/s
+vless://53b7fdec-4ccb-481a-8d98-83aa19509330@185.227.70.43:8082?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_7%7C2.3MB/s
+vless://53b7fdec-4ccb-481a-8d98-83aa19509330@185.227.70.40:8082?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_6%7C1.3MB/s
+vless://53b7fdec-4ccb-481a-8d98-83aa19509330@185.227.70.99:8082?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_8%7C1.1MB/s
+vless://53b7fdec-4ccb-481a-8d98-83aa19509330@1010101.vip:8082?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=safari&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C2.5MB/s
+vless://53b7fdec-4ccb-481a-8d98-83aa19509330@185.227.70.121:8082?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_5%7C2.2MB/s
