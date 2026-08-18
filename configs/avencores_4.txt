@@ -1,1 +1,0 @@
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@ss.1010101.vip:2096?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=safari&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.6MB/s
