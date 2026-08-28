@@ -1,1 +1,2 @@
 vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?type=tcp&security=reality&sni=www.vodafone.co.uk&fp=chrome&flow=xtls-rprx-vision&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&sid=d27683580fc15f1e#GB   VLESS-TCP-RLT - UK Dedicated Servers Limited  178.159.10.78
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@am.alertyagency.com:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SgV6vBorDPinOHb19xf_3sCP_IUI5Ot9zv7lPuUVhjM&sid=1388c268#AM   VLESS-TCP-RLT - Telecom Armenia OJSC  178.160.229.238
