@@ -1,2 +1,2 @@
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@rrr.windconnect.pro:443?flow=xtls-rprx-vision&fp=chrome&pbk=BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30&security=reality&sid=4da5d1853f04af6d&sni=rrr.windconnect.pro#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_5
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.112:8443?flow=xtls-rprx-vision&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_7
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@rrr.windconnect.pro:443?flow=xtls-rprx-vision&fp=chrome&pbk=BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30&security=reality&sid=4da5d1853f04af6d&sni=rrr.windconnect.pro#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_5
