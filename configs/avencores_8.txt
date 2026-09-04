@@ -1,1 +1,0 @@
-vless://969bcce0-de8a-4b02-8cf8-d00d2d2ca7a5@93.152.217.41:40443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=VG-FwQBMFzPcemJ_JqtkbO-2WKLmQp2h0CmAj-DfLkA&sid=5b97&sni=deepl.com#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20724729
