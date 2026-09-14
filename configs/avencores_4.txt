@@ -1,1 +1,0 @@
-vless://617dc5cf-915f-43b2-a0d4-4057584d9d33@91.240.85.248:2096?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=qq&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_8%7C1.7MB/s
