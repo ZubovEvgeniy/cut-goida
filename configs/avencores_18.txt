@@ -1,1 +1,2 @@
-vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@147.45.134.184:8443?fp=firefox&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&security=reality&sid=dd910a5b30&sni=dzen.ru#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0_5
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.56.189.224:6444?flow=xtls-rprx-vision&fp=firefox&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&security=reality&sid=a1b2c3d4&sni=capture.aeternavpn.space#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_10
+vless://2ac46dc3-0593-4898-bd52-42a7d5a8f2e2@de1-web.mysoyka.online:443?flow=xtls-rprx-vision&fp=chrome&pbk=5USjl6vRG3X4bxVWL9oZ7eUpyr-N3kezxnUi14WOrlY&security=reality&sid=3d475d331e49eee8&sni=de1-web.mysoyka.online#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_11
